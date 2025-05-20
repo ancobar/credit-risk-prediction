@@ -75,10 +75,9 @@ Top predictors (via information gain):
 
 
 ## 📂 Project Structure
-
-
-
-
+- README.md >>> Project overview, methods, and results (this file)
+- Credit_Dataset.csv >>> Dataset containing financial and demographic data for credit default prediction
+- Credit_Prediction_Notebook.ipynb >>> Jupyter Notebook with full pipeline: preprocessing, modeling, evaluation
 
 
 ## 🛠 Tools & Libraries
